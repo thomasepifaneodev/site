@@ -19,8 +19,7 @@ img.logo{
 }
 main {
     color: rgb(94, 23, 235);
-    width: 600px; 
-    height: auto;   
+    width: 600px;        
     margin: auto;
     padding: auto;
     box-shadow: 1px 5px 5px 8px rgb(3, 250, 110);
